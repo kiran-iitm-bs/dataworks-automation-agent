@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+httpx
+numpy
+scikit-learn
+markdown
+pandas
+python-dateutil
+faker
+pillow
+python-dotenv
+pytesseract
